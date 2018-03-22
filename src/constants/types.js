@@ -1,0 +1,2 @@
+export const FETCH_PLANETS = 'FETCH_PLANETS'
+export const COMPARE_PLANET = 'COMPARE_PLANET'

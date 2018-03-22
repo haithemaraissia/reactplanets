@@ -1,0 +1,75 @@
+{
+  "planets": [{
+      "id": "1",
+      "name": "Mercury",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mercury_in_color_-_Prockter07-edit1.jpg/338px-Mercury_in_color_-_Prockter07-edit1.jpg",
+      "mass": "0.330",
+      "colors": ["merc"],
+      "temperature": "167",
+      "moons": "0"
+    },
+    {
+      "id": "2",
+      "name": "Venus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCm3GL1Y0eN0DlemEjyukdlB1GjSJLug9whGb6S5dL1hljoDn",
+      "mass": "4.87",
+      "colors": ["yellow"],
+      "temperature": "464",
+      "moons": "0"
+    },
+    {
+      "id": "3",
+      "name": "Earth",
+      "image": "https://www.nasa.gov/centers/goddard/images/content/638831main_globe_east_2048.jpg",
+      "mass": "5.97",
+      "colors": ["blue"],
+      "temperature": "15",
+      "moons": "1"
+    },
+    {
+      "id": "4",
+      "name": "Mars",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/413px-OSIRIS_Mars_true_color.jpg",
+      "mass": "0.642",
+      "colors": ["red"],
+      "temperature": "-65",
+      "moons": "2"
+    },
+    {
+      "id": "5",
+      "name": "Jupiter",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/495px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+      "mass": "1898",
+      "colors": ["jupi"],
+      "temperature": "-110",
+      "moons": "2"
+    },
+    {
+      "id": "6",
+      "name": "Saturn",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4OhESnI58cQiVdRQwi9SRidKfbOZ3R__OgdVxQ9hcKSKS2Akm",
+      "mass": "568",
+      "colors": ["satu"],
+      "temperature": "-140",
+      "moons": "62"
+    },
+    {
+      "id": "7",
+      "name": "Uranus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg",
+      "mass": "86.8",
+      "colors": ["ura"],
+      "temperature": "-195",
+      "moons": "27"
+    },
+    {
+      "id": "8",
+      "name": "Neptune",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/413px-Neptune_Full.jpg",
+      "mass": "102",
+      "colors": ["nepu"],
+      "temperature": "-200",
+      "moons": "14"
+    }
+  ]
+}
