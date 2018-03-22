@@ -17,16 +17,18 @@ It's build on top of [`create-react-app`](http://www.google.lt)
 
 # Set Up
 
-Download the Entire Deployment Folder
+Download the Entire Solution 
+
 Run Nmp Start
 
 
-#Contributing
+# Contributing
 
 Thank you for considering contributing!
+
 Please use GitHub issues and Pull Requests for Contributing.
 
-#License
+# License
 
 The MIT License (MIT). Please see License File for more information.
 
