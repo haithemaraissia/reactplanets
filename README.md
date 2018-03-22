@@ -2,16 +2,23 @@
 
 Planetary System comparison page build using **React** + **JSON** + **Bootstrap** + **SASS**
 
+
+# Selection Process
+
 ![Screenshot](http://www.haithem-araissia.com/React/Step1.jpg)
 
+
+# Comparison Process
+
 ![Screenshot](http://www.haithem-araissia.com/React/Step2.png)
+
 
 It's build on top of [`create-react-app`](http://www.google.lt)
 
 # Set Up
 
 Download the Entire Deployment Folder
-Run Set.up exe
+Run Nmp Start
 
 
 #Contributing
