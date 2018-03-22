@@ -2,9 +2,9 @@
 
 Planetary System comparison page build using **React** + **JSON** + **Bootstrap** + **SASS**
 
-![Screenshot](http:www.haithem-araissia.com/React/Step1.jpg)
+![Screenshot](http://www.haithem-araissia.com/React/Step1.jpg)
 
-![Screenshot](http:www.haithem-araissia.com/React/Step2.png)
+![Screenshot](http://www.haithem-araissia.com/React/Step2.png)
 
 It's build on top of [`create-react-app`](http://www.google.lt)
 
